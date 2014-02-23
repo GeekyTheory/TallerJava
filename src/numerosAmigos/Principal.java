@@ -1,3 +1,7 @@
+/*
+ * CopyRight 2014 - Geeky Theory
+ * Please, read the LICENSE file for more details.
+ */
 package numerosAmigos;
 
 import java.util.Scanner;
@@ -18,7 +22,7 @@ public class Principal {
         if(amigos.sonAmigos()) {
             System.out.println("Los números "+numero1+" y "+numero2+" son amigos.");
         } else {
-            System.out.println("Los números "+numero1+" y "+numero2+" son amigos.");
+            System.out.println("Los números "+numero1+" y "+numero2+" no son amigos.");
         }
     }
 }

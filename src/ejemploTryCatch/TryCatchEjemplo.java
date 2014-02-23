@@ -1,3 +1,7 @@
+/*
+ * CopyRight 2014 - Geeky Theory
+ * Please, read the LICENSE file for more details.
+ */
 package ejemploTryCatch;
 
 import java.util.Scanner;
